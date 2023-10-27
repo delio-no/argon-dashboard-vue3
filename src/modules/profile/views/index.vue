@@ -60,9 +60,9 @@
         <!-- End admin -->
 
         <!-- Progress track -->
-        <div class="col-span-6">
+        <!-- <div class="col-span-6">
           <ProgressTrack />
-        </div>
+        </div> -->
         <!-- End progress track -->
       </div>
     </div>
