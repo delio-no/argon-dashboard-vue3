@@ -16,7 +16,7 @@
           class="transition-opacity duration-300 opacity-1 p-6 block"
           :to="{ name: 'Dashboard' }"
         >
-          <img src="@/assets/images/blue.png" class="max-h-8 max-w-full align-middle" alt="..." />
+          <!-- <img src="@/assets/images/blue.png" class="max-h-8 max-w-full align-middle" alt="..." /> -->
         </router-link>
         <div class="ml-auto">
           <div class="lg:col-span-10 xl:col-span-10 flex">
@@ -154,7 +154,7 @@
             </template>
           </el-menu>
           <el-divider />
-          <div
+          <!-- <div
             class="pl-6.5 text-muted text-12.8 font-bold"
             :class="{ hidden: !isSBOpen && !isSBPin }"
           >
@@ -175,7 +175,7 @@
                 >
               </div>
             </el-link>
-          </div>
+          </div> -->
         </el-scrollbar>
       </div>
     </div>
