@@ -7,14 +7,14 @@
           href="#"
           class="font-semibold ml-1 text-indigo-410 hover:text-indigo-410-active"
           target="_blank"
-          >Creative Tim</a
+          >Family</a
         >
         &amp;
         <a
           href="#"
           class="font-semibold ml-1 text-indigo-410 hover:text-indigo-410-active"
           target="_blank"
-          >Updivision</a
+          >Comrade</a
         >
       </div>
     </div>
@@ -22,7 +22,7 @@
       <div class="flex flex-wrap mb-0 pl-0 justify-center lg:justify-end gap-x-6 gap-y-2">
         <div class="">
           <a href="#" class="text-sm text-dark-lighter hover:text-indigo-410" target="_blank"
-            >Creative Tim</a
+            >Family</a
           >
         </div>
         <div class="">
