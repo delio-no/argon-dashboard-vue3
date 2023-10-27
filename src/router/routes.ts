@@ -107,6 +107,7 @@ const routes = [
       icon: CubeIcon,
       color: 'text-indigo-410',
       requiresAuth: true,
+      parentPath: 'Home'
     },
   },
   {
@@ -118,7 +119,7 @@ const routes = [
       icon: CubeTransparentIcon,
       color: 'text-indigo-410',
       requiresAuth: true,
-      
+      parentPath: 'Home'
     },
   },
 ]
