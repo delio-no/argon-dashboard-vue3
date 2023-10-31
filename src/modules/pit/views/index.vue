@@ -41,7 +41,7 @@
           </li>
         </ul>
             <el-icon><Download /></el-icon>
-            <el-link type="primary" href="https://drive.google.com/file/d/19TrvJqbLq-hj5JU1trhk4HZGU-gSFesa/view?usp=sharing" target="_blank">Скачать программу</el-link>
+            <el-link type="primary" href="https://drive.google.com/file/d/1CugzR5WKEXkvd7opUou-AxaYOSzyT6s5/view?usp=sharing" target="_blank">Скачать программу</el-link>
             <br>
             <el-icon ><Promotion /></el-icon>
             <el-link type="primary" href="https://t.me/CmdntBot" target="_blank">Основной бот в Telegram</el-link>
